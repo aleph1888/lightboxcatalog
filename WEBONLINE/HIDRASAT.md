@@ -6,12 +6,14 @@ Subministraments i  assistència tècnica
 - SERVEIS   
 - PRODUCTES   
 - GALERIA   
+
 EMPRESA
 =========
 HIDRASAT és una empresa jove però amb més d’una dècada d’experiència en els sectors de la oleohidràulica, pneumàtica i sistema de lubricació.
 Després d’haver format part del servei tècnic i de muntatge de  les principals marques d’aquests sectors, el nostre personal disposa d’una amplia experiència per donar als nostres clients l’adequada solució a les seves necessitats.
 Com que som una empresa multi marca, podem oferir varies opcions i assessorar en relació qualitat i preu als nostres clients.
 També podem oferir un departament d’enginyeria industrial, responsables dels disseny o modificació de sistemes hidràulics, pneumàtics i lubricació.
+
 SERVEIS
 ========
 - Disseny de sistemes hidràulics, pneumàtics i lubricació.
@@ -22,6 +24,7 @@ SERVEIS
 - Assistència tècnica per qualsevol tipus de reparació, en el taller o desplaçament a l’empresa dels nostres clients.
 - Reparació i construcció de cilindres.
 - Subministrament de tot tipus de components per l’hidràulica, pneumàtica i lubrificació.
+
 PRODUCTES
 ===========
 - Racoreria hidràulica y pneumàtica
@@ -35,6 +38,7 @@ PRODUCTES
 - Sistemes de refrigeració
 - Depòsits
 - Olis i greixos
+
 GALERIA
 ========
 - Central de lubrificació
